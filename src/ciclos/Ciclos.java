@@ -28,6 +28,9 @@ public class Ciclos {
         // Recorrer un array
         int[] numeros = new int[3];
         int[] numerosDefinidos = { 3, 2, 1, 2 };
+        String[] nombre = new String[3];
+        String[] nombreDefinidos = { "Luis" , "Elizabeth" };
+
 
         numeros[0] = 1;
         numeros[1] = 2;
