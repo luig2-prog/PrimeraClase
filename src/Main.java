@@ -1,4 +1,4 @@
-import uno.Hola;
+import one.java.fundamentals.Hola;
 
 // El nombre de la clase debe ser igual al nombre del archivo
 // El nombre de la clase es Main -> El nombre del archivo debe ser Main.java

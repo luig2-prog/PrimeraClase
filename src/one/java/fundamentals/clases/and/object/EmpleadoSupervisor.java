@@ -1,6 +1,4 @@
-package clases.and.object;
-
-import javax.xml.namespace.QName;
+package one.java.fundamentals.clases.and.object;
 
 public class EmpleadoSupervisor extends Persona {
 

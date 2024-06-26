@@ -1,4 +1,4 @@
-package tiposdedatos;
+package one.java.fundamentals.uno.tiposdedatos;
 
 public class Datos {
 

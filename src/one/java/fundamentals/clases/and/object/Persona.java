@@ -1,4 +1,4 @@
-package clases.and.object;
+package one.java.fundamentals.clases.and.object;
 
 // Como establecer una clase
 // 1.

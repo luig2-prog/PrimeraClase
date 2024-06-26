@@ -1,8 +1,6 @@
-package clases.and.object;
+package one.java.fundamentals.clases.and.object;
 
-
-
-public class ClaseObjetos {
+public class Main {
 
     // Instanciar un objeto
     static Persona persona = new Persona();

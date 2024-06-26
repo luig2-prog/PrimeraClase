@@ -1,4 +1,4 @@
-package clases.and.object.interfaces;
+package one.java.fundamentals.clases.and.object.interfaces;
 
 public class Gato extends Animal {
 
